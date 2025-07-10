@@ -95,7 +95,12 @@ html {
     margin: 0;
     padding: 0
 }
-
+.markdown-body>*:first-child{
+    display: none;
+}
+	.container-lg{
+    max-width: initial !important;
+}
 body {
     font-family: Fugaz One,sans-serif;
     font-weight: 400;
