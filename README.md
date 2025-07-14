@@ -179,7 +179,9 @@ hr:before {
     text-decoration: underline;
     margin-bottom: .9rem
 }
-
+.hero-section{
+font-family: 'Fugaz One', cursive;
+}
 @media screen and (max-width: 700px) {
     .scroll-bar {
         display:none
